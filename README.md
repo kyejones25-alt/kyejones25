@@ -8,10 +8,10 @@ I build forecasting models, dashboards, and econometric studies that turn raw da
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| [Cass Freight Index Forecasting](./cass-freight-forecasting) | R, ARIMA, ETS, STL | Time-series forecasting on 33 years of North American freight data |
-| [ESG & Board Gender Diversity](./esg-board-diversity) | R, OLS Regression | Regression analysis on 534 S&P 500 companies |
-| [CA Housing Price Prediction](./california-housing-prediction) | Python, Scikit-learn | Gradient Boosting model achieving R² = 0.82 |
-| [Global Superstore Dashboard](./global-superstore-dashboard) | Tableau | Interactive dashboard analyzing $12.6M in retail sales |
+| [Cass Freight Index Forecasting](https://github.com/kyejones25-alt/cass-freight-forecasting) | R, ARIMA, ETS, STL | Time-series forecasting on 33 years of North American freight data |
+| [ESG & Board Gender Diversity](https://github.com/kyejones25-alt/esg-board-diversity) | R, OLS Regression | Regression analysis on 534 S&P 500 companies |
+| [CA Housing Price Prediction](https://github.com/kyejones25-alt/california-housing-prediction) | Python, Scikit-learn | Gradient Boosting model achieving R² = 0.82 |
+| [Global Superstore Dashboard](https://github.com/kyejones25-alt/global-superstore-dashboard) | Tableau | Interactive dashboard analyzing $12.6M in retail sales |
 
 ## Tools & Skills
 Python (Pandas, NumPy, Scikit-learn) | R (dplyr, ggplot2, caret) | SQL | Tableau | Power BI | Excel | Xero
@@ -23,4 +23,3 @@ Python (Pandas, NumPy, Scikit-learn) | R (dplyr, ggplot2, caret) | SQL | Tableau
 ## Connect
 - Email: kyejones25@gmail.com
 - LinkedIn: [linkedin.com/in/kye-jones-1744a3225](https://www.linkedin.com/in/kye-jones-1744a3225)
-
